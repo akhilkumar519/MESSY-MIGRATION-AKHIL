@@ -47,4 +47,10 @@ IF I HAD MORE TIME:
 
 5) Finally, I’d add proper API documentation using something like  OpenAPI. That would make it a lot easier for other developers or even myself later on to understand how to use the API without digging into the code.
 
-All in all, this refactor wasn’t about adding good  features. It was about cleaning up serious issues, putting a solid structure in place, and setting a strong foundation for anything that comes next. Now the code is more secure, much easier to maintain, and ready to scale if needed.
+All in all, this refactor wasn’t about adding good  features. It was about cleaning up serious issues, putting a solid structure in place, and setting a strong foundation for anything that comes next. Now the code is more secure, much easier to maintain, and ready to scale if needed. 
+
+AI used:
+1) I've used gemini ai to track some more issues other than ive initially noticed,
+2) used to compare the project structure inititially in my mind . it gave me few other suggestions .
+3) to add code for password security related things
+4) to write the few edge cases.
